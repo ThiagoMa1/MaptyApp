@@ -18,6 +18,9 @@
 <img alt="BankistGif" title="BankistGif" src="./github/Animação.gif">
 <img alt="Bankist Login screen" tite="BankistLoggin" src="./github/Screenshot_1.png">
 </div><hr>
+                                                                                    
+## Link para checar o projeto                                                                                   
+https://mapty-thiago.netlify.app                                                                                    
 
 <br> <h2>Página feita com:</h2>
 
