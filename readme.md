@@ -15,8 +15,8 @@
 ## Demonstração
 <br>
 <div style="text-align: center;">
-<img alt="BankistGif" title="BankistGif" src="./github/Animação.gif" style="width: 40%;">
-<img alt="Bankist Login screen" tite="BankistLoggin" src="./github/Screenshot_1.png" style="width: 40%;">
+<img alt="BankistGif" title="BankistGif" src="./github/Animação.gif" style="width: 45%;">
+<img alt="Bankist Login screen" tite="BankistLoggin" src="./github/Screenshot_1.png" style="width: 45%;">
 </div><hr>
 
 <br> <h2>Página feita com:</h2>
